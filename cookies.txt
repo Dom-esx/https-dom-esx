@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.designseer.com	TRUE	/	FALSE	1999999999	__cfduid	da195ef3d1de95338ce4c8893abfd1a091614154019
+designseer.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
